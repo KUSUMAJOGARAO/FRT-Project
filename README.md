@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/KUSUMAJOGARAO/FRT-Project
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+Five is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
 
 # Features
 -  Good UI
