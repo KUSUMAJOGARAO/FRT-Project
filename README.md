@@ -76,8 +76,8 @@ EduWell is my project that is done as also called an online course, is any cours
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+![kusuma pc capt](https://user-images.githubusercontent.com/113019889/198709732-37f2b94f-a3ce-4076-88df-0288369b5661.jpg)
+
 
 
 # About Us
