@@ -1,4 +1,4 @@
-# Future Ready Talent - EduWell
+# Future Ready Talent - Five Hotel
 
 
 
@@ -64,11 +64,11 @@ EduWell is my project that is done as also called an online course, is any cours
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
-
+- ![kusuma azr web](https://user-images.githubusercontent.com/113019889/198711168-cba7aa35-ba81-4297-b77f-63807aad5222.jpg)
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+![kusuma github act](https://user-images.githubusercontent.com/113019889/198711299-f2e6fadb-e247-4784-9953-f411c9dc5f0c.jpg)
+
 
 # Project WorkFlow
 
