@@ -15,7 +15,8 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/KUSUMAJOGARAO/FRT-Project
 
 
 
-Five is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+Five Hotel is my project , we kept hotel details which are having well luxuries to stay to reserve for a room 
+through offline process it is time taken process to reserve a five hotel so to over come this we build a website to make it fast .
 
 # Features
 -  Good UI
