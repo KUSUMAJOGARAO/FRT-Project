@@ -77,13 +77,16 @@ EduWell is my project that is done as also called an online course, is any cours
  
 # Screenshots
 ![kusuma pc capt](https://user-images.githubusercontent.com/113019889/198709732-37f2b94f-a3ce-4076-88df-0288369b5661.jpg)
+![kusuma mob cap](https://user-images.githubusercontent.com/113019889/198710286-07d45742-4ab9-4962-b8ec-119394d4c934.jpg)
 
 
 
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  Poosarapu Kusuma
+
+-Temburu Vennela
 
 
 # Privacy Policies 
