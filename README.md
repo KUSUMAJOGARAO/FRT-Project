@@ -72,8 +72,9 @@ through offline process it is time taken process to reserve a five hotel so to o
 
 
 # Project WorkFlow
+![kusuma wrkflow](https://user-images.githubusercontent.com/113019889/198714397-a80255d9-9cee-4de0-a95e-51a8c6d9007b.jpg)
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+
 
  
 # Screenshots
