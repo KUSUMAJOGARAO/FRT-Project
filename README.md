@@ -6,7 +6,7 @@ AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL:  https://kusumajogarao.github.io/FRT-Project/
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
