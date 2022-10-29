@@ -4,7 +4,7 @@
 
 AZURE LINK : https://kind-moss-02d961400.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/SWtUE8rwEes
 
 PROJECT DEMO URL:  https://kusumajogarao.github.io/FRT-Project/
 
